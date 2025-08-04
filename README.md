@@ -31,7 +31,7 @@
   <a href="https://www.youtube.com/@yourchannel" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube" />
   </a>
-  <a href="mailto:yourgmail@gmail.com" target="_blank">
+  <a href="mailto:longdev366@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
